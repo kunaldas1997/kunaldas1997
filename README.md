@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @kunaldas1997
 - 👀 I’m interested in Game Development, Web Development and Android App Development
-- 🌱 I’m currently learning MonoGame
+- 🌱 I’m currently learning Web Development, and Game Development
 - 💞️ I’m looking to collaborate on game projects, as a freelancer or a hire.
 - 📫 How to reach me -> email me at kunaldas1107@gmail.com
 
